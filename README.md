@@ -28,12 +28,12 @@
 
 **Contato e redes sociais**:
 
-LinkedIn: https://www.linkedin.com/in/vivianerenizia
+> LinkedIn: https://www.linkedin.com/in/vivianerenizia
 
-Twitter: @viviane_renizia
+> Twitter: @viviane_renizia
 
-Instagram: @vivianerenizia
+> Instagram: @vivianerenizia
 
-Facebook: facebook.com/vrenizia
+> Facebook: facebook.com/vrenizia
 
-Twitch: twitch.tv/narutomineiro
+> Twitch: twitch.tv/narutomineiro
