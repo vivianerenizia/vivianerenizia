@@ -14,7 +14,7 @@
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
 > Sistemas de Informação (2017 - Atualmente)
 
-> Meninas++ (2017 - Atualmente) -> @meninasmaismais_ufv
+> Meninas++ (2019 - Atualmente) -> @meninasmaismais_ufv
 
 **Estudos atuais**:
 > Automação de testes
