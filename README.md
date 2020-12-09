@@ -17,12 +17,12 @@
 > Meninas++ (2019 - Atualmente) -> [Instagram](https://www.instagram.com/meninasmaismais_ufv/)
 
 **Estudos atuais**:
-> Automação de testes
+> Quality assurance (QA)
 
 **Interesses de carreira**:
 > Ciência de dados
 
-> Automação de testes
+> Quality assurance (QA)
 
 > Desenvolvimento Web
 
