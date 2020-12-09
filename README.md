@@ -30,6 +30,8 @@
 
 > [LinkedIn](https://www.linkedin.com/in/vivianerenizia/)
 
+> [Whatsapp](https://api.whatsapp.com/send?phone=5534987191870&text=Oi%2C%20Viviane%20Renizia%20aqui.%20%C3%89%20comigo%3F)
+
 > [Twitter](https://twitter.com/viviane_renizia/) 
 
 > [Instagram](https://www.instagram.com/vivianerenizia/)
@@ -37,3 +39,4 @@
 > [Facebook](https://www.facebook.com/vrenizia/)
 
 > [Twitch](https://www.twitch.tv/narutomineiro/)
+
