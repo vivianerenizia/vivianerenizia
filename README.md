@@ -24,8 +24,6 @@
 
 > Quality assurance (QA)
 
-> Desenvolvimento Web
-
 **Contato e redes sociais**:
 
 > [LinkedIn](https://www.linkedin.com/in/vivianerenizia/)
