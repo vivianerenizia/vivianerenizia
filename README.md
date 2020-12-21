@@ -17,7 +17,7 @@
 > Meninas++ (2019 - Atualmente) -> [Instagram](https://www.instagram.com/meninasmaismais_ufv/)
 
 **Estudos atuais**:
-> Quality assurance (QA)
+> Ciência de dados.
 
 **Interesses de carreira**:
 > Ciência de dados
