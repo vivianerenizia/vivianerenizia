@@ -16,8 +16,11 @@
 
 > Meninas++ (2019 - Atualmente) -> [Instagram](https://www.instagram.com/meninasmaismais_ufv/)
 
+**Inmetrics**:
+> Técnico de Analytics (Jan/2021 - Atualmente)
+
 **Estudos atuais**:
-> Ciência de dados.
+> Time Series Forecasting and Analysis;
 
 **Interesses de carreira**:
 > Ciência de dados
