@@ -24,7 +24,7 @@
 
 > [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vrenizia/)
 
-> [![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/narutomineiro/)
+> [![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/narutomineiro/)](https://www.twitch.tv/narutomineiro/)
 
 > [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivianereniziasilva@gmail.com)
 
