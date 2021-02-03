@@ -1,7 +1,5 @@
 ## Hey! Tudo bem? :shipit:
 
-**Contato e redes sociais**:
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianerenizia/)](https://www.linkedin.com/in/jhonathacordeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivianereniziasilva@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivianerenizia/)
