@@ -8,7 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vrenizia/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/narutomineiro/)](https://www.twitch.tv/narutomineiro/)
 [Whatsapp](https://api.whatsapp.com/send?phone=5534987191870&text=Oi%2C%20Viviane%20Renizia%20aqui.%20%C3%89%20comigo%3F)
-[Twitter](https://twitter.com/viviane_renizia/) 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40viviane_renizia)](https://twitter.com/viviane_renizia/) 
 
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
 > Sistemas de Informação (2017 - Atualmente)
