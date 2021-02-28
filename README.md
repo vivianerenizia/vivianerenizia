@@ -1,9 +1,5 @@
 ## Hey! Tudo bem? :shipit:
 
-<p float="right">
-  <img src="https://github.com/vivianerenizia/vivianerenizia/tree/vivianerenizia-patch-1" width="100" />
-</p>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianerenizia/)](https://www.linkedin.com/in/vivianerenizia/) 
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivianereniziasilva@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivianerenizia/)
