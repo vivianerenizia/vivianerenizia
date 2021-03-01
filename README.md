@@ -16,6 +16,7 @@
 
 **Estudos atuais**:
 > Time Series Forecasting and Analysis
+
 > Linear Regression
 
 **Interesses de carreira**:
