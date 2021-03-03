@@ -1,3 +1,4 @@
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/vivianerenizia/badges)
 ## Hey! Tudo bem? :shipit:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianerenizia/)](https://www.linkedin.com/in/vivianerenizia/) 
@@ -32,6 +33,6 @@
 
 **Status:**
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianerenizia&theme=radical)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianerenizia&theme=radical) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivianerenizia&theme=radical)](https://github.com/vivianerenizia/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivianerenizia&theme=radical)](https://github.com/vivianerenizia/github-readme-stats)
+
