@@ -1,4 +1,3 @@
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/naereen/badges)
 ## Hey! Tudo bem? :shipit:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianerenizia/)](https://www.linkedin.com/in/vivianerenizia/) 
