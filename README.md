@@ -9,15 +9,10 @@
 **Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
 > Sistemas de Informação (2017 - Atualmente)
 
-> Meninas++ (2019 - 2021) -> [Instagram](https://www.instagram.com/meninasmaismais_ufv/)
+> [Meninas++](https://www.instagram.com/meninasmaismais_ufv/) (2019 - 2021)
 
 **Inmetrics**:
 > Técnico de Analytics (Jan/2021 - Atualmente)
-
-**Estudos atuais**:
-> Time Series Forecasting and Analysis
-
-> Linear Regression
 
 **Interesses de carreira**:
 > Ciência de dados
