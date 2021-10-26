@@ -9,7 +9,8 @@
 > [Meninas++](https://www.instagram.com/meninasmaismais_ufv/) (2019 - 2021)
 
 **Inmetrics**:
-> Técnico de Analytics (Jan/2021 - Atualmente)
+> Técnico de Analytics (Jan/2021 - Ago/2021)
+> Cientista de Dados Junior (Set/2021 - Atualmente)
 
 **Interesses de carreira**:
 > Ciência de dados
