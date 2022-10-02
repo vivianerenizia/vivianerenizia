@@ -15,6 +15,7 @@
 
 **Interesses de carreira**:
 > Ciência de Dados
+
 > Engenharia de Dados
 
 **Status:**
