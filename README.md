@@ -14,7 +14,8 @@
 > Cientista de Dados Junior (Set/2021 - Atualmente)
 
 **Interesses de carreira**:
-> Ciência de dados
+> Ciência de Dados
+> Engenharia de Dados
 
 **Status:**
 
