@@ -16,6 +16,8 @@
 **Interesses de carreira**:
 > Ciência de Dados
 
+> Ciência de Dados para IA Generativa
+
 > Engenharia de Dados
 
 **Status:**
