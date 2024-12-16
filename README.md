@@ -11,7 +11,9 @@
 **Inmetrics**:
 > Técnico de Analytics (Jan/2021 - Ago/2021)
 
-> Cientista de Dados Junior (Set/2021 - Atualmente)
+> Cientista de Dados Junior (Set/2021 - Out/2024)
+
+> Cientista de Dados Pleno (Nov/2024 - Atualmente) 
 
 **Interesses de carreira**:
 > Ciência de Dados
