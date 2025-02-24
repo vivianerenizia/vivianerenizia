@@ -13,7 +13,7 @@
 
 > Junior Data Scientist (Sep/2021 - Oct/2024)
 
-> Mid Data Scientist (Nov/2024 - Atualmente) 
+> Mid Data Scientist (Nov/2024 - Present) 
 
 **Career Interests**:
 > Data Science
