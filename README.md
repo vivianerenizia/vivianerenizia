@@ -1,26 +1,28 @@
-## Hey! Tudo bem? :shipit:
+## Hey! How are you? :shipit:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianerenizia/)](https://www.linkedin.com/in/vivianerenizia/) 
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivianereniziasilva@gmail.com)
 
-**Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
-> Sistemas de Informação (2017 - Atualmente)
+**Federal University of Viçosa - Rio Paranaíba Campus (UFV-CRP)**:
+> Bachelor's degree in Information Systems (2017 - 2025)
 
 > [Meninas++](https://www.instagram.com/meninasmaismais_ufv/) (2019 - 2021)
 
 **Inmetrics**:
-> Técnico de Analytics (Jan/2021 - Ago/2021)
+> Data Scientist Tech Talent (Jan/2021 - Aug/2021)
 
-> Cientista de Dados Junior (Set/2021 - Out/2024)
+> Junior Data Scientist (Sep/2021 - Oct/2024)
 
-> Cientista de Dados Pleno (Nov/2024 - Atualmente) 
+> Mid Data Scientist (Nov/2024 - Atualmente) 
 
-**Interesses de carreira**:
-> Ciência de Dados
+**Career Interests**:
+> Data Science
 
-> Ciência de Dados para IA Generativa
+> Data Science for Generative AI
 
-> Engenharia de Dados
+> Data Engineering
+
+> Data Analysis
 
 **Status:**
 
